@@ -5,14 +5,25 @@ import DonationCard from "./DonationCard";
 const Donation = () => {
     const [donation, setDonation] = useState([])
     const [noFound, setNoFound] = useState(0)
-
     const [isShow, setIsShow] = useState(false)
 
+    const [totalPrice, setTotalPrice] = useState(0)
+
     useEffect(()=>{
-        // const donationItems =localStorage.getItem('donation')? JSON.parse(localStorage.getItem('donation')):[]
         const donationItems = JSON.parse(localStorage.getItem('donation'))
         if(donationItems){
             setDonation(donationItems)
+
+
+            let sum = 0
+            donationItems.forEach(element => { sum += Number(element.price)
+
+                localStorage.setItem('sum', JSON.stringify(donationItems))
+            });
+              setTotalPrice(sum)
+            // const total = donationItems.reduce((currentValue) =>{ console.log(currentValue);})
+
+            // setTotalPrice(total)
         }
         else{
             setNoFound('No Data found')
@@ -23,6 +34,7 @@ const Donation = () => {
     console.log(donation);
     return (
         <div>
+            <h2>Total price: {totalPrice}</h2>
             {
                 noFound ? <p className="h-[80vh] flex justify-center items-center">{noFound}</p> 
                 : <div>

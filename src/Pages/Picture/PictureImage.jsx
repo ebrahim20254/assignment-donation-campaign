@@ -32,13 +32,13 @@ const PictureImage = ({picture}) => {
    }
 
     return (
-        <div className="w-[80%]">
-        <div className="card card-compact">
+        <div className="w-[80%] relative">
+        <div className="card card-compact absolute">
           <img src={donation_image} alt="" />
-          <div className="">
+          <div className=" ">
           <button
           onClick={handleAddToDonation}
-           className="text-2xl font-bold bg-red-500 rounded text-white -my-16">donate {price}</button>
+           className="text-2xl font-bold bg-red-500 rounded text-white -mt-36">donate {price}</button>
           </div>
        <h2 className="card-title text-4xl font-bold">
         {donation_name}</h2>
