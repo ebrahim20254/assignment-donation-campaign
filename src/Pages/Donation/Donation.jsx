@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import PictureCard from "../../components/Pictures/PictureCard";
 import DonationCard from "./DonationCard";
 
 
@@ -27,7 +26,7 @@ const Donation = () => {
             {
                 noFound ? <p className="h-[80vh] flex justify-center items-center">{noFound}</p> 
                 : <div>
-                    <div className="grid grid-cols-2 gap-5"> 
+                    <div className="grid grid-cols-2 "> 
                         {
                             isShow ? donation.map(picture => <DonationCard  key={picture.id} picture={picture}></DonationCard> ) :
                             donation.slice(0,4).map(picture => <DonationCard  key={picture.id} picture={picture}></DonationCard> )
