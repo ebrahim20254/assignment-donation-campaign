@@ -4,9 +4,12 @@
         "image": "https://i.ibb.co/ZX6J4dj/Health.png",
         "card_title": "Health",
         "card_description": "Clean water for children",
-        "price": 2555,
-        "card_color_bg" : "#52FF00",
-        "category_color": "#0052FF"
+        "price": "$299.00",
+        "card_bg" : "#0052FF26",
+        "text_bg": "#0052FF",
+        "donation_name": "Good Education",
+        "donation_image": "https://i.ibb.co/hmVmKpZ/Rectangle-4288.png",
+        "donation_description":  "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
       },
       
     {
@@ -14,9 +17,11 @@
         "image": "https://i.ibb.co/wWBQswv/Education.png",
         "card_title": "Education",
         "card_description": "Good education",
-        "price": 2555,
+        "price": "$299.00",
         "card_color_bg" : "#52FF00",
-        "category_color": "#0052FF"
+        "donation_name": "Good Education",
+        "donation_image": "https://i.ibb.co/hmVmKpZ/Rectangle-4288.png",
+        "donation_description":  "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
       },
 
     {
@@ -24,9 +29,11 @@
         "image": "https://i.ibb.co/6NdD7My/Clothing.png",
         "card_title": "Clothing",
         "card_description": "Used Clothing Drive",
-        "price": 2555,
+        "price": "$299.00",
         "card_color_bg" : "#52FF00",
-        "category_color": "#0052FF"
+        "donation_name": "Good Education",
+        "donation_image": "https://i.ibb.co/hmVmKpZ/Rectangle-4288.png",
+        "donation_description":  "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
       },
 
     {
@@ -34,9 +41,11 @@
         "image": "https://i.ibb.co/0V1DChr/Food.png",
         "card_title": "Food",
         "card_description": "Better Food for Everyone",
-        "price": 2555,
+        "price": "$299.00",
         "card_color_bg" : "#52FF00",
-        "category_color": "#0052FF"
+        "donation_name": "Good Education",
+        "donation_image": "https://i.ibb.co/hmVmKpZ/Rectangle-4288.png",
+        "donation_description":  "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
       },
 
       {
@@ -44,9 +53,11 @@
         "image": "https://i.ibb.co/0V1DChr/Food.png",
         "card_title": "Food",
         "card_description": "Better Food for Everyone",
-        "price": 2555,
+        "price": "$299.00",
         "card_color_bg" : "#52FF00",
-        "category_color": "#0052FF"
+        "donation_name": "Good Education",
+        "donation_image": "https://i.ibb.co/hmVmKpZ/Rectangle-4288.png",
+        "donation_description":  "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
       },
 
       {
@@ -54,9 +65,11 @@
         "image": "https://i.ibb.co/6NdD7My/Clothing.png",
         "card_title": "Clothing",
         "card_description": "Used Clothing Drive",
-        "price": 2555,
+        "price": "$299.00",
         "card_color_bg" : "#52FF00",
-        "category_color": "#0052FF"
+        "donation_name": "Good Education",
+        "donation_image": "https://i.ibb.co/hmVmKpZ/Rectangle-4288.png",
+        "donation_description":  "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
       },
 
       {
@@ -64,9 +77,11 @@
         "image": "https://i.ibb.co/wWBQswv/Education.png",
         "card_title": "Education",
         "card_description": "Good education",
-        "price": 2555,
+        "price": "$299.00",
         "card_color_bg" : "#52FF00",
-        "category_color": "#0052FF"
+        "donation_name": "Good Education",
+        "donation_image": "https://i.ibb.co/hmVmKpZ/Rectangle-4288.png",
+        "donation_description":  "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
       },
 
       {
@@ -74,9 +89,11 @@
         "image": "https://i.ibb.co/ZX6J4dj/Health.png",
         "card_title": "Health",
         "card_description": "Clean water for children",
-        "price": 2555,
+        "price": "$299.00",
         "card_color_bg" : "#52FF00",
-        "category_color": "#0052FF"
+        "donation_name": "Good Education",
+        "donation_image": "https://i.ibb.co/hmVmKpZ/Rectangle-4288.png",
+        "donation_description":  "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
       },
 
       {
@@ -84,19 +101,23 @@
         "image": "https://i.ibb.co/ZX6J4dj/Health.png",
         "card_title": "Health",
         "card_description": "Clean water for children",
-        "price": 2555,
+        "price": "$299.00",
         "card_color_bg" : "#52FF00",
-        "category_color": "#0052FF"
+        "donation_name": "Good Education",
+        "donation_image": "https://i.ibb.co/hmVmKpZ/Rectangle-4288.png",
+        "donation_description":  "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
       },
 
       {
-        "id": "10",
-        "image": "https://i.ibb.co/ZX6J4dj/Health.png",
-        "card_title": "Health",
-        "card_description": "Clean water for children",
-        "price": 2555,
+        "id": "2",
+        "image": "https://i.ibb.co/wWBQswv/Education.png",
+        "card_title": "Education",
+        "card_description": "Good education",
+        "price": "$299.00",
         "card_color_bg" : "#52FF00",
-        "category_color": "#0052FF"
+        "donation_name": "Good Education",
+        "donation_image": "https://i.ibb.co/hmVmKpZ/Rectangle-4288.png",
+        "donation_description":  "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
       },
 
       {
@@ -104,9 +125,11 @@
         "image": "https://i.ibb.co/6NdD7My/Clothing.png",
         "card_title": "Clothing",
         "card_description": "Used Clothing Drive",
-        "price": 2555,
+        "price": "$299.00",
         "card_color_bg" : "#52FF00",
-        "category_color": "#0052FF"
+        "donation_name": "Good Education",
+        "donation_image": "https://i.ibb.co/hmVmKpZ/Rectangle-4288.png",
+        "donation_description":  "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
       },
 
       {
@@ -114,8 +137,10 @@
         "image": "https://i.ibb.co/0V1DChr/Food.png",
         "card_title": "Food",
         "card_description": "Better Food for Everyone",
-        "price": 2555,
+        "price": "$299.00",
         "card_color_bg" : "#52FF00",
-        "category_color": "#0052FF"
+        "donation_name": "Good Education",
+        "donation_image": "https://i.ibb.co/hmVmKpZ/Rectangle-4288.png",
+        "donation_description":  "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
       }
 ]
